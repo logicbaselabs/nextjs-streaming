@@ -1,6 +1,6 @@
-# 🚀 Next.js Streaming Masterclass 2025 — Learn with Sumit
+# 🚀 Next.js Streaming Masterclass 2025 — logicBase Labs
 
-Welcome to the official source code repository for the **Next.js Streaming Masterclass 2025** on [YouTube](https://youtube.com/@LearnwithSumit). This tutorial is designed for developers who want a clear, engineering-level understanding of how Next.js optimizes performance through smart Streaming strategies.
+Welcome to the official source code repository for the **Next.js Streaming Masterclass 2025** on [YouTube](https://youtube.com/@logicBaseLabs). This tutorial is designed for developers who want a clear, engineering-level understanding of how Next.js optimizes performance through smart Streaming strategies.
 
 🎬 **Watch the full tutorial:**
 👉 [Next.js Streaming Masterclass 2025](https://youtu.be/)
@@ -32,9 +32,9 @@ This repository is primarily for educational purposes based on the YouTube crash
 
 ## 🧠 Author
 
-**Sumit Saha** — [Learn with Sumit](https://youtube.com/@LearnwithSumit)
-📧 [sumit@learnwithsumit.com](mailto:sumit@learnwithsumit.com)
-🌐 [learnwithsumit.com](https://learnwithsumit.com)
+**Sumit Saha** — [logicBase Labs](https://youtube.com/@logicBaseLabs)
+📧 [sayhitorainmaker@gmail.com](mailto:sayhitorainmaker@gmail.com)
+🌐 [logicbaselabs.com](https://logicbaselabs.com)
 
 ---
 
@@ -43,7 +43,7 @@ This repository is primarily for educational purposes based on the YouTube crash
 If this crash course helped you, please:
 
 -   ⭐ Star this repo
--   🍿 Subscribe on [YouTube](https://youtube.com/@LearnwithSumit)
+-   🍿 Subscribe on [YouTube](https://youtube.com/@logicBaseLabs)
 -   🧑‍🏫 Share it with others!
 
 ---
