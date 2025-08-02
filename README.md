@@ -4,6 +4,7 @@ Welcome to the official source code repository for the **Next.js Streaming Maste
 
 🎬 **Watch the full tutorial:**
 👉 [Next.js Streaming Masterclass 2025](https://youtu.be/)
+[![Watch the video](https://img.youtube.com/vi/xTT_Sd_xqh0/maxresdefault.jpg)](https://www.youtube.com/watch?v=xTT_Sd_xqh0)
 
 ---
 
