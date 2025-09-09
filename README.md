@@ -3,7 +3,7 @@
 Welcome to the official source code repository for the **Next.js Streaming Masterclass 2025** on [YouTube](https://youtube.com/@logicBaseLabs). This tutorial is designed for developers who want a clear, engineering-level understanding of how Next.js optimizes performance through smart Streaming strategies.
 
 🎬 **Watch the full tutorial:**
-👉 [Next.js Streaming Masterclass 2025](https://youtu.be/)
+👉 [Next.js Streaming Masterclass 2025](https://youtu.be/xTT_Sd_xqh0)
 [![Watch the video](https://img.youtube.com/vi/xTT_Sd_xqh0/maxresdefault.jpg)](https://www.youtube.com/watch?v=xTT_Sd_xqh0)
 
 ---
